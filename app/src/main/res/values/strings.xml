@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">My App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="cloths">Cloths</string>
+    <string name="shoes">Shoes</string>
+    <string name="jewellery">Jewellery</string>
+    <string name="male">Male</string>
+    <string name="popular">Popular</string>
+    <string name="feamle">Female</string>
+    <string name="children">Children</string>
 </resources>
