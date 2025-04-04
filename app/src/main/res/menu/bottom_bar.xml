@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/clothsFragment"
+        android:icon="@drawable/clothes_icon"
+        android:title="Clothes"
+        />
+
+    <item
+        android:id="@+id/shoesFragment"
+        android:icon="@drawable/shoe_icon"
+        android:title="Shoes"
+        />
+
+    <item
+        android:id="@+id/jewelleryFragment"
+        android:icon="@drawable/necklace"
+        android:title="Jewellery"
+        />
+
+
+</menu>
